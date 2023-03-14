@@ -1,0 +1,11 @@
+release/baroquehouse.o
+release/classichouse.o
+release/garagedecorator.o
+release/hi_techhouse.o
+release/house.o
+release/housedecorator.o
+release/main.o
+release/mainwindow.o
+release/pooldecorator.o
+release/qrc_resources.o
+release/moc_mainwindow.o

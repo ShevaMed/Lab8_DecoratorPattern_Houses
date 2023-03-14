@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>images/BaroqueHouse.jpg</file>
+        <file>images/ClassicHouse.jpg</file>
+        <file>images/garage.jpg</file>
+        <file>images/Hi_TechHouse.jpg</file>
+        <file>images/pool.jpg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,11 @@
+debug/baroquehouse.o
+debug/classichouse.o
+debug/garagedecorator.o
+debug/hi_techhouse.o
+debug/house.o
+debug/housedecorator.o
+debug/main.o
+debug/mainwindow.o
+debug/pooldecorator.o
+debug/qrc_resources.o
+debug/moc_mainwindow.o
